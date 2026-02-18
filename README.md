@@ -217,6 +217,19 @@ Fitur:
 > ✨ Jika cart kosong akan menampilkan pesan "Your cart is empty"
 
 ---
+---
+
+# 📸 Tampilan Aplikasi
+
+<div align="center">
+
+| 🛍️ UI RESULT |
+|------------------|
+| <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/139928e7-8cf7-418f-ad39-90dd73419dab" />|
+
+</div>
+
+---
 
 # 🎯 Kesimpulan
 
@@ -235,4 +248,5 @@ Project ini melatih pemahaman tentang:
 ---
 
 ⭐ Project ini dibuat sebagai latihan implementasi State Management pada Flutter.
+
 
