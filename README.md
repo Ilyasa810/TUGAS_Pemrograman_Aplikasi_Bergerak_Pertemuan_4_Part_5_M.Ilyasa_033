@@ -4,9 +4,9 @@
 ### Mata Kuliah: Pemrograman Aplikasi Bergerak
 ---
 
-> 👤 **Nama:** Muhammad Ilyasa' Izzuddin  
-> 🎓 **Kelas:** A 2024 - Sistem Informasi  
-> 🆔 **NIM:** 2409116033  
+### 👤 **Nama:** Muhammad Ilyasa' Izzuddin  
+### 🎓 **Kelas:** A 2024 - Sistem Informasi  
+### 🆔 **NIM:** 2409116033  
 
 ---
 
